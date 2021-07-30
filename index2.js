@@ -2,10 +2,11 @@
  Transitional//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”>
  <html xmlns=”http://www.w3.org/1999/xhtml”>
   <head>
-    <title></title>
+    <title> Javascript file</title>
   </head>
   <body>
    <p id="ResultsP"></p> 
+
    <script type="text/javascript">//Script Block 1
    document.getElementById('ResultsP').innerHTML ='Hello World!';
    </script>
